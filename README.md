@@ -32,8 +32,8 @@ Dive into the global AI revolution:
 
 ---
 ## 🔍 Preview
-<img width="1386" height="519" alt="image" src="" />
-<img width="1642" height="761" alt="image" src="" />
+<img width="1386" height="519" alt="image" src="https://github.com/AnkitSingh1827/AI-Impact-dashboard/blob/main/Screenshot%202025-08-05%20120637.png" />
+<img width="1642" height="761" alt="image" src="https://github.com/AnkitSingh1827/AI-Impact-dashboard/blob/main/Screenshot%202025-08-05%20120720.png" />
 
 
 ---
