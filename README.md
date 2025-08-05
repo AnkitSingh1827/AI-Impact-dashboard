@@ -31,49 +31,56 @@ Dive into the global AI revolution:
 
 ---
 
+---
 
+## 🛠 Tech Stack
 
-##🛠 Tech Stack
-Python
+- **Python**
+- **Streamlit**
+- **Pandas**
+- **Plotly**
+- **Seaborn**
 
-Streamlit
+---
 
-Pandas
+## 📂 Dataset Source
 
-Plotly
+[`Global_AI_Content_Impact_Dataset.csv`](https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025?select=Global_AI_Content_Impact_Dataset.csv)  
+Sourced from **Kaggle**, this dataset captures AI impact indicators across different sectors and countries between 2020 and 2025.
 
-Seaborn
+---
 
-📂 Dataset Source
-Global_AI_Content_Impact_Dataset.csv
-Sourced from Kaggle, this dataset captures AI impact indicators across different sectors and countries between 2020 and 2025.
+## 💻 Getting Started
 
-💻 Getting Started
-To run this locally, follow the steps:
+To run this project locally:
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/AnkitSingh1827/AI-impact-dashboard.git
 cd AI-impact-dashboard
 pip install -r requirements.txt
-streamlit run app.py
-🌟 Future Plans
-🛰 Add AI adoption heatmaps
+streamlit run global.py
+```
 
-📌 Integrate live news/article feeds via APIs
+---
 
-🧠 Implement predictive analytics (2026+)
+## 🌟 Future Plans
 
-💬 Chatbot using LLMs for Q&A on data
+-🛰 Add AI adoption heatmaps
+-📌 Integrate live news/article feeds via APIs
+-🧠 Implement predictive analytics (2026+)
+-💬 Chatbot using LLMs for Q&A on data
 
-🙏 Acknowledgements
-Atharva Soundankar for the dataset
+---
 
-Streamlit, Plotly, and Seaborn for powerful visualization tools
+## 🙏 Acknowledgements
+-Atharva Soundankar for the dataset
+-Streamlit, Plotly, and Seaborn for visualization tools
+-Kaggle for data access
 
-Kaggle for making data accessible
+---
 
-👨‍💻 Author
-Ankit Singh
-GitHub | LinkedIn
+## 👩‍💻 Author
+
+*Ankit Singh*  
+[GitHub](https://github.com/AnkitSingh1827) | [LinkedIn](www.linkedin.com/in/ankit-singh257)
+
