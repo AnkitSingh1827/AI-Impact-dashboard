@@ -31,7 +31,6 @@ Dive into the global AI revolution:
 
 ---
 
----
 
 ## 🛠 Tech Stack
 
