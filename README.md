@@ -29,9 +29,14 @@ Dive into the global AI revolution:
 - 📥 Download filtered results
 - 📊 Multiple chart types: line, bar, pie, radar, 3D
 
+
 ---
+## 🔍 Preview
+<img width="1386" height="519" alt="image" src="" />
+<img width="1642" height="761" alt="image" src="" />
 
 
+---
 ## 🛠 Tech Stack
 
 - **Python**
