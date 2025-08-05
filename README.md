@@ -30,8 +30,8 @@ This dashboard visualizes the **global impact of AI** using interactive charts a
 
 ## 📂 Dataset
 
-> `https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025?select=Global_AI_Content_Impact_Dataset.csv`  
-Sourced from Kaggle , this CSV captures AI impact indicators across different sectors and countries.
+> [`Global_AI_Content_Impact_Dataset.csv`](https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025?select=Global_AI_Content_Impact_Dataset.csv)  
+Sourced from **Kaggle**, this dataset captures AI impact indicators across different sectors and countries between 2020 and 2025.
 
 ---
 
